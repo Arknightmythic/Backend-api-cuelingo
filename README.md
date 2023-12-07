@@ -4,6 +4,7 @@
 2. npm install express express-validator mysql2 dotenv jsonwebtoken bcrypt
 3. package.json=>tambahin "module"="type" dibawah "main"
 4. buat databasenya:
+   
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
